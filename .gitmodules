@@ -1,0 +1,3 @@
+[submodule "components/renovate-sub"]
+	path = components/renovate-sub
+	url = https://github.com/goro9/renovate-sub.git
